@@ -31,6 +31,19 @@
     <item>Android-Strands_Of_Light</item>
     <item>Android-Techno</item>
     <item>Android-Water_Alien</item>
+	<item>xperia1</item>
+	<item>xperia2</item>
+	<item>xperia3</item>
+	<item>xperia4</item>
+	<item>xperia5</item>
+	<item>xperia6</item>
+	<item>xperia7</item>
+	<item>xperia8</item>
+	<item>xperia9</item>
+	<item>xperia10</item>
+	<item>xperia11</item>
+	<item>xperia12</item>
+	<item>xperia13</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -48,5 +61,18 @@
     <item>Strands of Light</item>
     <item>Techno</item>
     <item>Water Aliens</item>
+	<item>Xperia 1</item>
+	<item>Xperia 2</item>
+	<item>Xperia 3</item>
+	<item>Xperia 4</item>
+	<item>Xperia 5</item>
+	<item>Xperia 6</item>
+	<item>Xperia 7</item>
+	<item>Xperia 8</item>
+	<item>Xperia 9</item>
+	<item>Xperia 10</item>
+	<item>Xperia 11</item>
+	<item>Xperia 12</item>
+	<item>Xperia 13</item>
     </string-array>
 </resources>
