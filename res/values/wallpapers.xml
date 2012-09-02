@@ -17,8 +17,36 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+    <item>Android-Apple_Goes_In_Trash</item>
+    <item>Android-Best_Friend</item>
+    <item>Android_Blue_Smoke</item>
+    <item>Android-Blue-Water</item>
+    <item>Android-Galaxy_Of_Stars</item>
+    <item>Android-Globe</item>
+    <item>Android-Grassy</item>
+    <item>Android-Green_Line</item>
+    <item>Android-Logo01</item>
+    <item>Android-Logo02</item>
+    <item>Android-Logo03</item>
+    <item>Android-Strands_Of_Light</item>
+    <item>Android-Techno</item>
+    <item>Android-Water_Alien</item>
     </string-array>
 
     <string-array name="info" translatable="false">
+    <item>Apple goes in trash</item>
+    <item>I'm your best friend</item>
+    <item>Blue smoke</item>
+    <item>Blue water</item>
+    <item>Galaxy of Stars</item>
+    <item>Globe</item>
+    <item>Grassy</item>
+    <item>Green lines</item>
+    <item>Logo1</item>
+    <item>Logo2</item>
+    <item>Logo3</item>
+    <item>Strands of Light</item>
+    <item>Techno</item>
+    <item>Water Aliens</item>
     </string-array>
 </resources>
