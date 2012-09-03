@@ -17,38 +17,38 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-    <item>Android-Apple_Goes_In_Trash</item>
-    <item>Android-Best_Friend</item>
-    <item>Android_Blue_Smoke</item>
-    <item>Android-Blue-Water</item>
-    <item>Android-Galaxy_Of_Stars</item>
-    <item>Android-Globe</item>
-    <item>Android-Grassy</item>
-    <item>Android-Green_Line</item>
-    <item>Android-Logo01</item>
-    <item>Android-Logo02</item>
-    <item>Android-Logo03</item>
-    <item>Android-Strands_Of_Light</item>
-    <item>Android-Techno</item>
-    <item>Android-Water_Alien</item>
-	<item>xperia1</item>
-	<item>xperia2</item>
-	<item>xperia3</item>
-	<item>xperia4</item>
-	<item>xperia5</item>
-	<item>xperia6</item>
-	<item>xperia7</item>
-	<item>xperia8</item>
-	<item>xperia9</item>
-	<item>xperia10</item>
-	<item>xperia11</item>
-	<item>xperia12</item>
-	<item>xperia13</item>
+    <item>apple_goes_in_trash</item>
+    <item>best_friend</item>
+    <item>blue_smoke</item>
+    <item>blue_water</item>
+    <item>galaxy_of_stars</item>
+    <item>globe</item>
+    <item>grassy</item>
+    <item>green_lines</item>
+    <item>logo01</item>
+    <item>logo02</item>
+    <item>logo03</item>
+    <item>strands_of_light</item>
+    <item>techno</item>
+    <item>water_aliens</item>
+    <item>xperia1</item>
+    <item>xperia2</item>
+    <item>xperia3</item>
+    <item>xperia4</item>
+    <item>xperia5</item>
+    <item>xperia6</item>
+    <item>xperia7</item>
+    <item>xperia8</item>
+    <item>xperia9</item>
+    <item>xperia10</item>
+    <item>xperia11</item>
+    <item>xperia12</item>
+    <item>xperia13</item>
     </string-array>
 
     <string-array name="info" translatable="false">
     <item>Apple goes in trash</item>
-    <item>I'm your best friend</item>
+    <item>I\'m your best friend</item>
     <item>Blue smoke</item>
     <item>Blue water</item>
     <item>Galaxy of Stars</item>
@@ -61,18 +61,18 @@
     <item>Strands of Light</item>
     <item>Techno</item>
     <item>Water Aliens</item>
-	<item>Xperia 1</item>
-	<item>Xperia 2</item>
-	<item>Xperia 3</item>
-	<item>Xperia 4</item>
-	<item>Xperia 5</item>
-	<item>Xperia 6</item>
-	<item>Xperia 7</item>
-	<item>Xperia 8</item>
-	<item>Xperia 9</item>
-	<item>Xperia 10</item>
-	<item>Xperia 11</item>
-	<item>Xperia 12</item>
-	<item>Xperia 13</item>
+    <item>Xperia 1</item>
+    <item>Xperia 2</item>
+    <item>Xperia 3</item>
+    <item>Xperia 4</item>
+    <item>Xperia 5</item>
+    <item>Xperia 6</item>
+    <item>Xperia 7</item>
+    <item>Xperia 8</item>
+    <item>Xperia 9</item>
+    <item>Xperia 10</item>
+    <item>Xperia 11</item>
+    <item>Xperia 12</item>
+    <item>Xperia 13</item>
     </string-array>
 </resources>
